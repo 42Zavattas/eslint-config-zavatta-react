@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-zavatta-react",
+  "version": "1.0.0",
+  "description": "ESLint config for esling-plugin-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/42Zavattas/eslint-config-zavatta-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "react",
+    "zavatta"
+  ],
+  "author": "meriadec <meriadec.pillet@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/42Zavattas/eslint-config-zavatta-react/issues"
+  },
+  "homepage": "https://github.com/42Zavattas/eslint-config-zavatta-react"
+}
