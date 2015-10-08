@@ -12,7 +12,7 @@ module.exports = {
     'react/jsx-closing-bracket-location': 0,
     'react/jsx-curly-spacing': 2,
     'react/jsx-indent-props': [2, 2],
-    'react/jsx-max-props-per-line': 2,
+    'react/jsx-max-props-per-line': [2, 2],
     'react/jsx-no-duplicate-props': 2,
     'react/jsx-no-literals': 0,
     'react/jsx-no-undef': 2,
