@@ -6,7 +6,7 @@ module.exports = {
     'react'
   ],
   rules: {
-    'react/display-name': [2, { acceptTranspilerName: true }],
+    'react/display-name': 0,
     'react/forbid-prop-types': 2,
     'react/jsx-boolean-value': 2,
     'react/jsx-closing-bracket-location': 0,
