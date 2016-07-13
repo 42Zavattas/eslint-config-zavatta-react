@@ -3,6 +3,9 @@
   "version": "1.2.3",
   "description": "ESLint config for esling-plugin-react",
   "main": "index.js",
+  "scripts": {
+    "find-rules": "eslint-find-rules -u index.js -n"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/42Zavattas/eslint-config-zavatta-react.git"
@@ -14,10 +17,13 @@
   ],
   "author": "meriadec <meriadec.pillet@gmail.com>",
   "license": "BSD",
-  "dependencies": {
-  },
   "bugs": {
     "url": "https://github.com/42Zavattas/eslint-config-zavatta-react/issues"
   },
-  "homepage": "https://github.com/42Zavattas/eslint-config-zavatta-react"
+  "homepage": "https://github.com/42Zavattas/eslint-config-zavatta-react",
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-find-rules": "^1.11.0",
+    "eslint-plugin-react": "^5.2.2"
+  }
 }

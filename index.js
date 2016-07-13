@@ -1,7 +1,6 @@
 'use strict';
 
 module.exports = {
-
   plugins: [
     'react'
   ],
@@ -33,5 +32,4 @@ module.exports = {
     'react/sort-comp': 2,
     'react/wrap-multilines': 2
   }
-
 }
