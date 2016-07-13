@@ -5,6 +5,17 @@ module.exports = {
     'react'
   ],
   rules: {
+    'react/jsx-equals-spacing': 2,
+    'react/jsx-filename-extension': 0,
+    'react/jsx-first-prop-new-line': [2, 'multiline'],
+    'react/jsx-handler-names': 0,
+    'react/jsx-indent': [2, 2],
+    'react/jsx-key': 2,
+    'react/jsx-no-bind': 0,
+    'react/jsx-no-target-blank': 2,
+    'react/jsx-pascal-case': 2,
+    'react/jsx-sort-prop-types': 0,
+    'react/jsx-space-before-closing': 2,
     'react/display-name': 0,
     'react/forbid-prop-types': 2,
     'react/jsx-boolean-value': 2,
@@ -30,6 +41,16 @@ module.exports = {
     'react/require-extension': 2,
     'react/self-closing-comp': 2,
     'react/sort-comp': 2,
-    'react/wrap-multilines': 2
+    'react/wrap-multilines': 2,
+    'react/no-comment-textnodes': 2,
+    'react/no-deprecated': 2,
+    'react/no-is-mounted': 2,
+    'react/no-render-return-value': 2,
+    'react/no-string-refs': 0,
+    'react/prefer-es6-class': 2,
+    'react/prefer-stateless-function': 0,
+    'react/require-optimization': 0,
+    'react/require-render-return': 2,
+    'react/sort-prop-types': 0
   }
 }
