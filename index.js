@@ -17,7 +17,7 @@ module.exports = {
     'react/jsx-sort-prop-types': 0,
     'react/jsx-space-before-closing': 2,
     'react/display-name': 0,
-    'react/forbid-prop-types': 2,
+    'react/forbid-prop-types': 0,
     'react/jsx-boolean-value': 2,
     'react/jsx-closing-bracket-location': 0,
     'react/jsx-curly-spacing': 2,
