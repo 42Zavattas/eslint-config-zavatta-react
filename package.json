@@ -4,7 +4,7 @@
   "description": "ESLint config for esling-plugin-react",
   "main": "index.js",
   "scripts": {
-    "find-rules": "eslint-find-rules -u index.js -n"
+    "find-rules": "eslint-find-rules -u index.js -n | grep react"
   },
   "repository": {
     "type": "git",
