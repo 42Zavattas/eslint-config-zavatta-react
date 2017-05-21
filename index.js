@@ -16,6 +16,11 @@ module.exports = {
     'react/jsx-pascal-case': 2,
     'react/jsx-sort-prop-types': 0,
     'react/jsx-space-before-closing': 2,
+    'react/jsx-tag-spacing': [2, {
+      closingSlash: 'never',
+      beforeSelfClosing: 'always',
+      afterOpening: 'never',
+    }],
     'react/display-name': 0,
     'react/forbid-prop-types': 0,
     'react/jsx-boolean-value': 2,
@@ -52,6 +57,18 @@ module.exports = {
     'react/prefer-stateless-function': 0,
     'react/require-optimization': 0,
     'react/require-render-return': 2,
-    'react/sort-prop-types': 0
+    'react/sort-prop-types': 0,
+    'react/forbid-component-props': 0,
+    'react/forbid-foreign-prop-types': 2,
+    'react/no-children-prop': 2,
+    'react/no-unescaped-entities': 2,
+    'react/no-will-update-set-state': 2,
+    'react/style-prop-object': 2,
+    'react/forbid-elements': 0,
+    'react/no-danger-with-children': 2,
+    'react/require-default-props': 0,
+    'react/no-array-index-key': 2,
+    'react/no-unused-prop-types': 2,
+    'react/void-dom-elements-no-children': 2,
   }
 }
