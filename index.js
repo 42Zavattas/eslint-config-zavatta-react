@@ -15,7 +15,6 @@ module.exports = {
     'react/jsx-no-target-blank': 2,
     'react/jsx-pascal-case': 2,
     'react/jsx-sort-prop-types': 0,
-    'react/jsx-space-before-closing': 2,
     'react/jsx-tag-spacing': [2, {
       closingSlash: 'never',
       beforeSelfClosing: 'always',
