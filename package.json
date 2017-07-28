@@ -23,7 +23,9 @@
   "homepage": "https://github.com/42Zavattas/eslint-config-zavatta-react",
   "devDependencies": {
     "eslint": "^3.2.2",
-    "eslint-find-rules": "^1.13.0",
-    "eslint-plugin-react": "^7.0.1"
+    "eslint-find-rules": "^1.13.0"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "^7.1.0"
   }
 }
