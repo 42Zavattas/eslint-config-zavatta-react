@@ -69,5 +69,11 @@ module.exports = {
     'react/no-array-index-key': 2,
     'react/no-unused-prop-types': 2,
     'react/void-dom-elements-no-children': 2,
+    'react/boolean-prop-naming': 0,
+    'react/default-props-match-prop-types': 2,
+    'react/jsx-closing-tag-location': 2,
+    'react/no-redundant-should-component-update': 2,
+    'react/no-typos': 2,
+    'react/no-unused-state': 2,
   }
 }
